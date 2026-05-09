@@ -43,7 +43,7 @@ Power BI, DAX, MySQL, Advanced Excel, Power Query, Tableau
 
 - Power BI
 ![Dashboard](Screenshots/Power_BI_Dashboard.png)
-![Data Model](Screenshots/Power_BI_Data_Model.png)
+![Data Model](Screenshots/Power_BI_Data_Models.png)
 
 - Excel
 ![Dashboard](Screenshots/Excel_Dashboard.png)
