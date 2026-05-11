@@ -41,7 +41,7 @@ F) Files
 ![Uber Bike](Screenshots/Uber_Bike.png)
 
 4.Uber Sedan
-![Uber Sedan](Screenshot/Uber_Sedan.png)
+![Uber Sedan](Screenshots/Uber_Sedan.png)
 
 5. Uber XL
 ![Uber XL](Screenshots/Uber_XL.png)
