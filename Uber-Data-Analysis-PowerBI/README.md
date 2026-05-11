@@ -31,12 +31,17 @@ F) Files
 - Uber_Analysis.pbix — Power BI report file
 - Screenshots/ — Dashboard images for each vehicle type
 
+1. Dashboard
 ![Dashboard](Screenshots/Uber_Dashboard.png)
 
+2. Uber Auto
 ![Uber Auto](Screenshots/Uber_Auto.png)
 
+3. Uber Bike
 ![Uber Bike](Screenshots/Uber_Bike.png)
 
+4.Uber Sedan
 ![Uber Sedan](Screenshot/Uber_Sedan.png)
 
+5. Uber XL
 ![Uber XL](Screenshots/Uber_XL.png)
