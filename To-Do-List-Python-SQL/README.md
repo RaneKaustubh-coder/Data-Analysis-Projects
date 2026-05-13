@@ -26,3 +26,5 @@ Python, MySQL, mysql-connector-python
 
 ## Files
 - To-Do-List.py — Main application file
+**Project File**
+![To-Do-List](CLI-To-Do-List.py)
