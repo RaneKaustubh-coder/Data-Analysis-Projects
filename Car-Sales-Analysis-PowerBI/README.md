@@ -24,5 +24,13 @@ E) Files
 - Screenshots/ — Dashboard images
 
 1. Top 5
-   ![Car-Sales-Analysis-PowerBI](Screenshots/Top 5.png)
-   
+   ![Dashboard Top 5](Screenshots/Top_5.png)
+
+1. Bottom 5
+   ![Dashboard Bottom 5](Screenshots/Bottom_5.png)
+
+1. SUV Top 5
+   ![Dashboard SUV Top 5](Screenshots/SUV_Top_5.png)
+
+1. MUV Bottom 5
+   ![Dashboard SUV Bottom 5](Screenshots/MUV_Bottom_5.png)
